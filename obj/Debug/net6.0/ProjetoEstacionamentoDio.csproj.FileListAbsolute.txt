@@ -1,0 +1,14 @@
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\bin\Debug\net6.0\ProjetoEstacionamentoDio.exe
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\bin\Debug\net6.0\ProjetoEstacionamentoDio.deps.json
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\bin\Debug\net6.0\ProjetoEstacionamentoDio.runtimeconfig.json
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\bin\Debug\net6.0\ProjetoEstacionamentoDio.dll
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\bin\Debug\net6.0\ProjetoEstacionamentoDio.pdb
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\obj\Debug\net6.0\ProjetoEstacionamentoDio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\obj\Debug\net6.0\ProjetoEstacionamentoDio.AssemblyInfoInputs.cache
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\obj\Debug\net6.0\ProjetoEstacionamentoDio.AssemblyInfo.cs
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\obj\Debug\net6.0\ProjetoEstacionamentoDio.csproj.CoreCompileInputs.cache
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\obj\Debug\net6.0\ProjetoEstacionamentoDio.dll
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\obj\Debug\net6.0\refint\ProjetoEstacionamentoDio.dll
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\obj\Debug\net6.0\ProjetoEstacionamentoDio.pdb
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\obj\Debug\net6.0\ProjetoEstacionamentoDio.genruntimeconfig.cache
+D:\CursoDio\C#\ProjetoEstacionamentoDio\ProjetoEstacionamentoDio\obj\Debug\net6.0\ref\ProjetoEstacionamentoDio.dll
